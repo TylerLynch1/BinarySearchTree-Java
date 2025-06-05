@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch BinarySearchTreeViewer (JavaFX)",
+      "request": "launch",
+      "mainClass": "BinarySearchTreeViewer",
+      "projectName": "Binary Search Tree_b68ff877",
+      "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-21.0.7/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
