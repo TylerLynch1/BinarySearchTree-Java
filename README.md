@@ -4,7 +4,7 @@ This project implements a Binary Search Tree (BST) in Java with support for inse
 
 ## 📁 Project Structure
 
-<pre>```
+<pre>
 project-root/
 │
 ├── .vscode/
@@ -23,7 +23,7 @@ project-root/
 │ ├── BinarySearchTreeViewer.java # JavaFX GUI launcher
 │ └── BinaryTreeView.java # JavaFX visual rendering of the tree
 │
-└── README.md # Project overview and instructions```
+└── README.md # Project overview and instructions
 </pre>
   
 ## 🛠️ Features
