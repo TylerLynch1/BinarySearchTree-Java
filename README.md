@@ -23,9 +23,9 @@ project-root/
 │ ├── BinarySearchTreeViewer.java # JavaFX GUI launcher
 │ └── BinaryTreeView.java # JavaFX visual rendering of the tree
 │
-├── .gitignore
+├── .gitignore # Specifies intentionally untracked files to ignore in version control
 |
-├── LICENSE
+├── LICENSE # Creative Commons Attribution-NonCommercial 4.0 International
 |
 └── README.md # Project overview and instructions
 </pre>
