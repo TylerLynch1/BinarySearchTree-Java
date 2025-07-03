@@ -23,6 +23,10 @@ project-root/
 │ ├── BinarySearchTreeViewer.java # JavaFX GUI launcher
 │ └── BinaryTreeView.java # JavaFX visual rendering of the tree
 │
+├── .gitignore
+|
+├── LICENSE
+|
 └── README.md # Project overview and instructions
 </pre>
   
